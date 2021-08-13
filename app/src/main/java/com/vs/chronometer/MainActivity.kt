@@ -29,9 +29,11 @@ class MainActivity : AppCompatActivity() {
         binding.chronometer.start()
     }
 
-    fun stopTimer(){
+
+    fun stopTimer(view: View) {
         binding.chronometer.stop()
         Toast.makeText(this,"Timer stopped!",Toast.LENGTH_SHORT).show()
+        setupChronometer()
     }
 
 }
