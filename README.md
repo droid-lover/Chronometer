@@ -5,5 +5,4 @@ Tutorial link - https://medium.com/native-mobile-bits/easily-build-a-chronometer
 
 
 
-![outputVideo](https://github.com/droid-lover/Chronometer/raw/master/images/chronometer.gif)
-
+<img src="https://github.com/droid-lover/Chronometer/raw/master/images/chronometer.gif" width="400" height="600" />
